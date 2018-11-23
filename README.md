@@ -1,2 +1,2 @@
 # fiction
-my first fiction
+my first novel
